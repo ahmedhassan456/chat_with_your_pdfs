@@ -36,6 +36,7 @@ GROQ_API_KEY=your_groq_api_key_here
 
 4. Start Ollama (for embeddings):
 ```bash
+ollama pull all-minilm:33m-l12-v2-fp16
 ollama serve
 ```
 
