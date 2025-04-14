@@ -55,7 +55,7 @@ ollama serve
 
 1. Start the Streamlit app:
 ```bash
-streamlit run src/streamlit_app.py
+streamlit run src/main.py
 ```
 
 2. Open your web browser and navigate to the provided local URL (typically http://localhost:8501)
